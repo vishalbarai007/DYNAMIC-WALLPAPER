@@ -1,8 +1,8 @@
 
 ---
 
-```markdown
-# 🌄 DynamicWallpaper — Smart Wallpaper Automation for Linux (GNOME)
+
+## 🌄 DynamicWallpaper — Smart Wallpaper Automation for Linux (GNOME)
 
 Automatically change your wallpaper dynamically based on **time of day**, **weather**, or **system light/dark mode**.  
 DynamicWallpaper integrates directly with your GNOME desktop to fetch **beautiful wallpapers** from **Unsplash** or your **local collection** — and even switches automatically when your system theme changes 🌞🌙.
