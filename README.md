@@ -1,48 +1,32 @@
-
 ---
-
-
 ## 🌄 DynamicWallpaper — Smart Wallpaper Automation for Linux (GNOME)
 
 Automatically change your wallpaper dynamically based on **time of day**, **weather**, or **system light/dark mode**.  
 DynamicWallpaper integrates directly with your GNOME desktop to fetch **beautiful wallpapers** from **Unsplash** or your **local collection** — and even switches automatically when your system theme changes 🌞🌙.
-
 ---
-
 ## ✨ Features
 
-- 🕓 **Time-based Wallpaper Switching**  
-  Automatically changes wallpapers for Morning, Afternoon, Evening, and Night.
-
-- 🌤️ **Weather-based Mode** *(optional)*  
-  Uses real-time weather API to pick wallpapers that match your environment.
-
-- 🌑 **Dark/Light Mode Detection (GNOME)**  
-  Detects theme change (`prefer-dark` / `prefer-light`) and adjusts wallpaper accordingly.
-
-- 🌐 **Online Wallpapers from Unsplash**  
-  Fetches HD wallpapers using your own Unsplash Access Key.
-
-- 💾 **Offline Wallpaper Cycle**  
-  Uses your custom wallpapers when offline.
-
+- 🕓 **Time-based Wallpaper Switching**Automatically changes wallpapers for Morning, Afternoon, Evening, and Night.
+- 🌤️ **Weather-based Mode** *(optional)*Uses real-time weather API to pick wallpapers that match your environment.
+- 🌑 **Dark/Light Mode Detection (GNOME)**Detects theme change (`prefer-dark` / `prefer-light`) and adjusts wallpaper accordingly.
+- 🌐 **Online Wallpapers from Unsplash**Fetches HD wallpapers using your own Unsplash Access Key.
+- 💾 **Offline Wallpaper Cycle**Uses your custom wallpapers when offline.
 - ⚡ **Quick Commands** to switch category or update instantly.
-
-- 🧠 **Auto Session Linking for VS Code / Cron Jobs**  
+- 🧠 **Auto Session Linking for VS Code / Cron Jobs**
   Automatically connects to your GNOME session if environment variables are missing.
 
 ---
 
 ## 🧰 Tech Stack
 
-| Component | Technology |
-|------------|-------------|
-| **Language** | Python 3 |
+| Component                     | Technology              |
+| ----------------------------- | ----------------------- |
+| **Language**            | Python 3                |
 | **Desktop Environment** | GNOME (tested on v46.0) |
-| **Wallpaper Engine** | `gsettings` (DBus) |
-| **APIs** | Unsplash API |
-| **Config Format** | JSON |
-| **Package Manager** | pip |
+| **Wallpaper Engine**    | `gsettings` (DBus)    |
+| **APIs**                | Unsplash API            |
+| **Config Format**       | JSON                    |
+| **Package Manager**     | pip                     |
 
 ---
 
@@ -267,7 +251,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-### Made with ❤️ by [Vishal Barai](https://github.com/%3Cvishalbarai007%3E)
+### Made with ❤️ by [Vishal Barai](https://github.com/vishalbarai007)
 
 > “Every wallpaper tells a story — let yours change with time.”
 
