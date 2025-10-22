@@ -1,0 +1,23 @@
+{
+  "categories": {
+    "morning": "cars",
+    "afternoon": "motivation",
+    "night": "anime"
+  },
+  "base_cycle": "cycle24hour",
+  "time_categories": {
+    "morning": "day",
+    "afternoon": "day",
+    "evening": "evening",
+    "night": "night"
+  },
+  "interval_minutes": 0.25,
+  "use_weather": true,
+  "use_online_wallpapers": true,
+  "mode": "time",
+  "fade_transition": true,
+  "online_sync": true,
+  "weather_mode": true,
+  "api_key": "bd5e378503939ddaee76f12ad7a97608",
+  "unsplash_access_key": "nqsP5-FYR3_r6oofmjcpnefMSJPCaGKJwIeMkwoYpSA"
+}
